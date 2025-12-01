@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML / Data
+*.h5
+*.hdf5
+*.keras
+*.pkl
+*.joblib
+*.pb
+*.tflite
+*.onnx
+*.ckpt
+checkpoint/
+logs/
+models/
+
+# Datasets
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+data/
+dataset/
+
+# Cache
+*.cache/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

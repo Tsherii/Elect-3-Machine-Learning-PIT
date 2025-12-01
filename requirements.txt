@@ -1,0 +1,28 @@
+# Core ML
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+
+# NLP
+nltk==3.9.1
+spacy==3.7.2
+textblob==0.17.1
+
+# Deep Learning (CPU)
+keras-preprocessing==1.1.2
+
+# Helpers
+matplotlib==3.8.3
+seaborn==0.13.2
+h5py==3.10.0
+
+# Parquet support
+pyarrow==15.0.0
+
+# Notebook (optional)
+jupyterlab==4.1.0
+pyspellchecker==0.7.2
+openpyxl
+shap
+
+
